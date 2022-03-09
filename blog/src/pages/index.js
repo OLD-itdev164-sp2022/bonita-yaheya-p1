@@ -32,7 +32,8 @@ const IndexPage = ({data}) => (
     </Container>
      
     <p>
-      <Link to="/page-2/">Click on image for lightbox content!</Link><br />
+      <h3>Click image for content</h3> <br />
+      <Link to="/page-2/">Next Page</Link><br />
     </p>
   </Layout>
 )
